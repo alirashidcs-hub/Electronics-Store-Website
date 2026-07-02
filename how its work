@@ -1,0 +1,107 @@
+Electronics Store Website
+Project Overview
+The Electronics Store Website is a front-end web development project created as part of my Information and Communication Technology (ICT) Lab course. The website simulates an online electronics shopping platform where users can browse electronic products through a simple, clean, and user-friendly interface.
+The project focuses on learning the fundamentals of web development, webpage organization, navigation, and responsive page design using HTML.
+Project Objective
+The objectives of this project are to:
+Design a responsive electronics shopping website.
+Understand the structure of web pages using HTML.
+Create an attractive and easy-to-use interface.
+Organize products into different categories.
+Improve front-end development skills.
+Technologies Used
+HTML5
+Web Development
+Front-End Development
+(If you also used CSS or JavaScript, add them here.)
+Website Structure
+The website consists of several sections:
+Home Page
+Navigation Bar
+Product Categories
+Product Listings
+Product Detail Pages
+Footer
+Each section is connected through navigation links, allowing users to move easily between different pages.
+How It Works
+Step 1 – Homepage
+When the website opens, users are welcomed by the homepage, which displays the store name, navigation menu, and featured electronic products.
+Step 2 – Navigation
+The navigation bar allows users to move between different pages such as:
+Home
+Products
+Categories
+About
+Contact
+Clicking a menu option loads the corresponding webpage.
+Step 3 – Product Categories
+Products are organized into categories such as:
+Laptops
+Smartphones
+Accessories
+Headphones
+Smart Devices
+Users can browse products by selecting a category.
+Step 4 – Product Listing
+Each product displays:
+Product Image
+Product Name
+Price
+Short Description
+This layout makes it easier for users to compare products.
+Step 5 – Product Details
+When a user selects a product, detailed information is displayed, including:
+Product Name
+Description
+Price
+Features
+Product Image
+This simulates a real e-commerce website.
+Step 6 – User Experience
+The website is designed with a simple and organized layout, making navigation easy. The clean interface improves readability and provides a smooth browsing experience.
+Features
+Responsive Homepage
+Product Categories
+Product Listings
+Product Details
+Navigation Menu
+Clean User Interface
+Easy Navigation
+Applications
+This project can be used for:
+Online Electronics Stores
+Educational Web Projects
+Front-End Development Practice
+E-Commerce Website Design
+Advantages
+Easy to use
+Clean layout
+Organized content
+Beginner-friendly
+Responsive design
+Simple navigation
+Future Improvements
+The website can be enhanced by adding:
+CSS animations
+JavaScript interactivity
+Shopping Cart
+User Login System
+Product Search
+Product Filters
+Payment Gateway
+Database Integration
+Order Management System
+Admin Dashboard
+Skills Learned
+Through this project, I gained practical experience in:
+HTML5
+Website Design
+Front-End Development
+Responsive Web Design
+User Interface (UI) Design
+Page Structuring
+Navigation Design
+Problem Solving
+Content Organization
+Conclusion
+The Electronics Store Website successfully demonstrates the fundamentals of front-end web development by simulating an online electronics shopping platform. It provides an organized layout with product categories, navigation menus, and product information while emphasizing usability and clean design. This project strengthened my understanding of HTML, webpage structure, responsive design principles, and user interface development, providing a solid foundation for building more advanced web applications using CSS, JavaScript, and backend technologies in the future.
